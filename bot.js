@@ -8,7 +8,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : DREAM ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`Alone.`,"http://twitch.tv/YouTubeee")
+client.user.setGame(`Otaku Forever - オタクフォーエバー`,"http://twitch.tv/YouTubeee")
 client.user.setStatus("dnd")
 });
 
